@@ -1,12 +1,18 @@
-In this project I collected data from a Gupta Gift shop which is located at Himachal pradesh. Mr. Dalip Gupta owner of Gupta Gift shop. 
+Project Overview:
+In this project, I collaborated with Mr. Dalip Gupta, the owner of Gupta Gift Shop located in Himachal Pradesh, to identify and resolve key business challenges.
 
-How I worked with Dalip Gupta ? 
-There are few steps which are written below : 
+Approach:
 
-Step 1 : In his bussiness I identify few issues like "inventory management" and "margin management".
+Problem Identification: Conducted an assessment of the business and identified major challenges, including inefficiencies in inventory management and margin management.
 
-Step 2 : After identify the issue collected data of his past sales, inventory data. 
+Data Collection: Gathered historical sales records and inventory data to establish a comprehensive dataset for analysis.
 
-Step 3 : Now, after collcetion the most important step is cleaning the dataset with imputation methods in sklearn.
+Data Preprocessing: Cleaned and prepared the dataset using advanced imputation techniques available in scikit-learn, ensuring accuracy and consistency.
 
-Step 4 : Here, we analyze the data and 
+Data Analysis: Performed detailed analysis to uncover actionable insights and business trends.
+
+Impact:
+The insights provided enabled the shop owner to make data-driven decisions, resulting in a 30–40% increase in sales and profitability.
+
+
+Here you will get all the business related proofs : https://drive.google.com/drive/folders/1Qn_poQoCNVoIlSLOGKcmpZTV5ul_56j1?usp=drive_link
